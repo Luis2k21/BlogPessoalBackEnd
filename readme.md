@@ -20,4 +20,4 @@ Tabela
 <h4>[task dia 28/09]</h4>
 
 <h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/blogpessoal2.0"> BlogPessoal 2.0</a></h3>
-<p> Foi adicionado a relação entre classes, isso é equivalente a relação de tabelas do MySQL.</p>
+<p> Foi adicionado o relacionamento entre classes, isso é equivalente a relação de tabelas do MySQL.</p>
