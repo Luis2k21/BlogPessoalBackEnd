@@ -21,3 +21,6 @@ Tabela
 
 <h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/blogpessoal2.0"> BlogPessoal 2.0</a></h3>
 <p> Foi adicionado o relacionamento entre classes, isso é equivalente a relação de tabelas do MySQL.</p>
+<p><em> @ManyToOne </em></p>
+<p><em> @OneToMany </em></p>
+<p><em> @JsonIgnoreProperties </em></p>
