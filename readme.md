@@ -1,7 +1,7 @@
 Tabela
 =================
 <!--ts-->
-   - Todas as taks do blog pessoal serão colocadas aqui!  
+   - Todas as tasks do blog pessoal serão colocadas aqui!  
 <!--te-->
 
 <h4 align="center"> 
