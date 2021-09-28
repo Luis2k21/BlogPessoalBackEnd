@@ -12,7 +12,8 @@ Tabela
 <h4>[task dia 27/09]</h4>
 
 <h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/BlogPessoal1.0/blogpessoal"> BlogPessoal 1.0</a></h3>
-<p> Esta task foi atribuido 4 métodos Http</p>
+<p> Esta task foi atribuido 4 métodos Http na <strong> Model <em> PostagemController </em> </strong> </p>
+<p><strong>Métodos usados:</strong></p>
 <p><em> GET, POST, PUT, DELETE </em></p>
 
 <br> </br>
@@ -21,6 +22,8 @@ Tabela
 
 <h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/blogpessoal2.0"> BlogPessoal 2.0</a></h3>
 <p> Foi adicionado o relacionamento entre classes, isso é equivalente a relação de tabelas do MySQL.</p>
+<p> Tudo isso foi adicionando nas suas devidas <strong> Controllers </strong></p>
+<p><strong> Anotações utilizadas: </strong></p>
 <p><em> @ManyToOne </em></p>
 <p><em> @OneToMany </em></p>
 <p><em> @JsonIgnoreProperties </em></p>
