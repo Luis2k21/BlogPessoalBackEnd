@@ -23,7 +23,7 @@ Tabela
 
 <h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/blogpessoal2.0"> BlogPessoal 2.0</a></h3>
 <p> Foi adicionado o relacionamento entre classes, isso é equivalente a relação de tabelas do MySQL.</p>
-<p> Tudo isso foi adicionando nas suas devidas <strong> Controllers </strong></p>
+<p> Tudo isso foi adicionando nas suas devidas <strong> Models </strong></p>
 <p><strong> Anotações utilizadas: </strong></p>
 <p><em> @ManyToOne </em></p>
 <p><em> @OneToMany </em></p>
