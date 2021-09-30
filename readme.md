@@ -11,7 +11,7 @@ Tabela
 
 <h4>[task dia 27/09]</h4>
 
-<h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/BlogPessoal1.0/blogpessoal"> BlogPessoal 0.1</a></h3>
+<h3><a href="https://github.com/Luis2k21/BlogPessoal/tree/master/BlogPessoal1.0/blogpessoal"> <strong><em>BlogPessoal 0.1</em></strong></a></h3>
 <p> Esta task foi atribuido 4 métodos Http na Model <em><a href=https://github.com/Luis2k21/BlogPessoal/blob/master/BlogPessoal1.0/blogpessoal/src/main/java/br/org/generation/blogpessoal/controller/PostagemController.java> <em><strong> PostagemController </strong></em></a></p>						
 								   
 <p><strong>Métodos usados:</strong></p>
