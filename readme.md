@@ -1,4 +1,4 @@
-Blog Pessoal finalizado!...
+Blog Pessoal finalizado!
 =================
 <br> </br>
 
